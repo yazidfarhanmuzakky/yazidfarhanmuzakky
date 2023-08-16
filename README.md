@@ -1,5 +1,5 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Yazid Farhan Muzakky**.\
+Perkenalkan nama saya **Yazid Farhan Muzakky**.
 
-Saya seorang mahasiswa universitas gunadarma, jurusan informatika.\
+Saya seorang mahasiswa universitas gunadarma, jurusan informatika.
