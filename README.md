@@ -1,5 +1,6 @@
-# Halo semua! 
+# Hello Everyone! 
 
-Perkenalkan nama saya **Yazid Farhan Muzakky**.
+Introduce my self,
+my name is **Yazid Farhan Muzakky**.
 
-Saya seorang mahasiswa universitas gunadarma, jurusan informatika.
+Bachelore degree of Informatics on universitas gunadarma with GPA 3.36.
